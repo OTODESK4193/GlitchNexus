@@ -44,7 +44,7 @@ GlitchNexus is not just another random noise generator. It is an **Instant IDM M
 ---
 ### 📖 User Manual
 For detailed instructions on all parameters and advanced synthesis techniques, please refer to the:
-👉 [**GlitchNexusl User Manual (PDF)**](BassSynth_User_Manual.pdf)
+👉 [**GlitchNexusl User Manual (PDF)**](GlitchNexus_UserManual.pdf)
 
 ## ⚖ License
 This project is licensed under the **GNU General Public License v3.0 (GPLv3)**. 
