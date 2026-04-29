@@ -1,6 +1,6 @@
 # GlitchNexus v1.0
 **Advanced Granular Glitch & Multi-Effect Engine**
-
+<img src="Screenshot_1.png" width="600">
 
 
 **GlitchNexus** is a high-fidelity, aggressive granular glitch multi-effect plugin designed for modern electronic music production. Built with C++ and the JUCE framework, it offers a sophisticated balance between chaotic destruction and musical control.
