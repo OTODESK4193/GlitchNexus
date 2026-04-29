@@ -1,10 +1,14 @@
 # GlitchNexus v1.0
 **Advanced Granular Glitch & Multi-Effect Engine**
+
 ---
 <img src="image.png" width="600">
----
+
+
 👉 **[Watch the Demo Video on X (動作デモ動画はこちら！)](https://x.com/kijyoumusic/status/2049347141668393373?s=20)**
----
+
+
+
 [Disclaimer: Hearing and Equipment Safety]
 This software is provided "as-is." In no event shall the developer be liable for any hearing loss, or damage to speakers, headphones, or any other audio equipment resulting from the use of this software.
 Extreme settings, particularly within the Resonator (Feedback), X-Mod, and BitCrush sections, may cause unexpected high-decibel peaks and harsh frequencies. Users are strongly advised to start with low volume levels and use protective measures such as limiters. Use of this software is at your own risk.
