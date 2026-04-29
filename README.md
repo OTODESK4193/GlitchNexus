@@ -1,5 +1,6 @@
 # GlitchNexus v1.0
 **Advanced Granular Glitch & Multi-Effect Engine**
+---
 <img src="image.png" width="600">
 
 
