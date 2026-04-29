@@ -6,7 +6,7 @@
 
 **GlitchNexus** is a high-fidelity, aggressive granular glitch multi-effect plugin designed for modern electronic music production. Built with C++ and the JUCE framework, it offers a sophisticated balance between chaotic destruction and musical control.
 
-Developed by **OTODESK (Glitch Arch)**.
+Developed by **OTODESK**.
 
 ---
 
@@ -42,6 +42,9 @@ GlitchNexus is not just another random noise generator. It is an **Instant IDM M
 * **Drive & Tone:** Analog-style saturation and a Tilt EQ to polish or darken the final output.
 
 ---
+### 📖 User Manual
+For detailed instructions on all parameters and advanced synthesis techniques, please refer to the:
+👉 [**GlitchNexusl User Manual (PDF)**](BassSynth_User_Manual.pdf)
 
 ## ⚖ License
 This project is licensed under the **GNU General Public License v3.0 (GPLv3)**. 
