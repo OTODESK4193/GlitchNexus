@@ -45,11 +45,11 @@ GlitchNexus is not just another random noise generator. It is an **Instant IDM M
 * **Drive & Tone:** Analog-style saturation and a Tilt EQ to polish or darken the final output.
 * 
 ### For Users (Download)
-1. Download the latest release from the [Releases](https://github.com/OTODESK4193/BassSynth/releases) page. 
+1. Download the latest release from the [Releases](https://github.com/OTODESK4193/GlitchNexus/releases) page. 
 2. Move the `BassSynth.vst3` (Windows) to your DAW's plugin folder.
    - **Windows VST3**: `C:\Program Files\Common Files\VST3`
 
-![Downloads](https://img.shields.io/github/downloads/OTODESK4193/BassSynth/total.svg)
+![Downloads](https://img.shields.io/github/downloads/OTODESK4193/GlitchNexus/total.svg)
 ---
 ### 📖 User Manual
 For detailed instructions on all parameters and advanced synthesis techniques, please refer to the:
