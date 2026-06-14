@@ -61,12 +61,9 @@ For detailed instructions on all parameters and advanced synthesis techniques, p
 👉 [**GlitchNexusl User Manual (PDF)**](GlitchNexus_UserManual.pdf)
 
 ## ⚖ License
-This project is licensed under the **GNU General Public License v3.0 (GPLv3)**. 
+This project is licensed under the GNU Affero General Public License v3.0 (AGPLv3) - see the [LICENSE](LICENSE) file for details.
+This software is built using the **JUCE 8** framework. In accordance with JUCE 8's open-source licensing terms, this entire project is distributed under the AGPLv3.
 
-Since this plugin is built using the [JUCE framework](https://juce.com/) under its Personal/Open-Source tier, it must be distributed as open-source under the GPLv3 license. 
-You are free to use, modify, and distribute this software, provided that any derivative works are also open-sourced under the same license. 
-
-For commercial distribution without open-sourcing, a commercial JUCE license is required.
 
 ---
 
@@ -84,6 +81,10 @@ For commercial distribution without open-sourcing, a commercial JUCE license is 
 - **2つのビジュアライザー:** 波形のズレを表示する「Ghost Horizon」と、粒の動きを表示する「Grain Scanner」を搭載。
 - **マスターエフェクト:** 歪み（Drive）とトーン（Tone）を追加。
 
+### ライセンスについて
+このプロジェクトは **GNU Affero General Public License v3.0 (AGPLv3)** のもとで公開されています。詳細は [LICENSE](LICENSE) ファイルを作成してください。
+
+本プラグインは **JUCE 8** フレームワークを使用して開発されています。JUCE 8のオープンソースライセンス規約に基づき、本ソフトウェアのソースコードおよびバイナリにはAGPLv3が適用されます。
 ---
 
 **Happy Glitching!**
